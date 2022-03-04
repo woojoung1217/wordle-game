@@ -1,6 +1,5 @@
 
-# 📝 Wordle game 📝(워들 게임)
-
+# 📝 Wordle game 📝
 <br>
 
 ```html
